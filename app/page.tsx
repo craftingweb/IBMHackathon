@@ -85,7 +85,7 @@ export default function LandingPage() {
                           Board of Trustees Meeting
                         </h3>
                         <p className="text-sm text-slate-500 dark:text-slate-400">
-                          Brooklyn College Policy Updates
+                          Staten Island College Policy Updates
                         </p>
                       </div>
                       <div className="space-y-2">
@@ -259,9 +259,9 @@ export default function LandingPage() {
                   <h3 className="text-xl font-bold">Students</h3>
                 </div>
                 <p className="text-muted-foreground">
-                  "As a Brooklyn College student, I can see all policies from
-                  the May 9th, 2025 meeting that directly affect my education
-                  and campus experience."
+                  "As a College of Staten Island student, I can see all policies
+                  from the May 9th, 2025 meeting that directly affect my
+                  education and campus experience."
                 </p>
                 <ul className="space-y-2 text-sm text-muted-foreground">
                   <li className="flex items-center">
@@ -359,7 +359,7 @@ export default function LandingPage() {
           <div className="flex items-center gap-2">
             <BookOpen className="h-5 w-5" />
             <p className="text-sm text-muted-foreground">
-              © 2024 CUNY Insights. All rights reserved.
+              © 2025 CUNY Insights. All rights reserved.
             </p>
           </div>
           <nav className="flex gap-4 sm:gap-6">
